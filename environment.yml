@@ -1,0 +1,16 @@
+name: Corfu_school
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - ipython
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pip
+  - scipy
+  - parse
+  - astropy
+  - pip:
+    - superrad
