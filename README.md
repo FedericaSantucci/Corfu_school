@@ -7,4 +7,4 @@ conda env create -f environment.yml
 conda activate Corfu_school
 ```
 
-Scripts to use latex in mybinder based on this repo by [m-weigand](https://github.com/m-weigand/binder-example-latex-mpl)
+Scripts to use latex in mybinder based on this [repo](https://github.com/m-weigand/binder-example-latex-mpl) by m-weigand
