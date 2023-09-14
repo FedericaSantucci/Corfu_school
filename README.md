@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/richbrito/Corfu_school/HEAD?labpath=SNR_bosoncloud.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/richbrito/Corfu_school/HEAD)
 
 To run jupyter notebooks locally, create and activate a Conda environment by doing:
 
